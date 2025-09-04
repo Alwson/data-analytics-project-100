@@ -1,3 +1,2 @@
-!code/
-!code/**
+*.ipynb
 !code/charts_project.ipynb
